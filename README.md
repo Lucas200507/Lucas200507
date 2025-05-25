@@ -1,7 +1,7 @@
 
 ### Bem vindo ao meu repositório, me chamo Lucas Ataide✌️
 
-- Estudando Banco de dados 📚
+- Estudando PHP 📚
 
 ![Lucas200507 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas200507&show_icons=true&theme=radical)
 
