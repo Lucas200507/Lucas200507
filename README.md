@@ -5,7 +5,7 @@
 
   ![Lucas200507 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas200507&show_icons=true&theme=radical)        
 
-- Linguagens que eu utilizo
+- Linguagens / ferramentas que já utilizei
         <br>
   <div style="display:inline_block">
           <img align="center" style="height: 3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />          
