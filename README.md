@@ -2,8 +2,8 @@
 ### Bem vindo ao meu repositório, me chamo Lucas Ataide✌️
 
 - Estudando PHP 📚
-  <div styyle="display: flex-inline">
         ![Lucas200507 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas200507&show_icons=true&theme=radical)        
+  <div styyle="display: flex-inline">
         - Linguagens que eu utilizo
         <br>
         <div style="display:inline_block">
